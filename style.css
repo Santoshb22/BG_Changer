@@ -1,0 +1,25 @@
+.button {
+    height: 50px;
+    width: 50px;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#white {
+    background-color: white;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+.color-switcher {
+    text-align: center;
+    margin-top: 250px;
+}
